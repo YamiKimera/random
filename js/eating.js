@@ -10,7 +10,6 @@ $("#jump").click(function(){
 $("#walk").click(function(){
     $("#RESULTS").prepend("step step step <br/>");
 });
-});
 $("#combust").click(function(){
-    $("#RESULTS").prepend("'you blew up' <br/>");
+    $("#RESULTS").prepend(" 'you blew up' <br/>");
 });
